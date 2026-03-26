@@ -26,6 +26,6 @@ spec:
     app: java-app
   ports:
   - port: 80
-    targetPort: 9090
+    targetPort: 8086
     nodePort: 30008
 
